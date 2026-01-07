@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Posts on Department Of Warfare</title>
+    <link>http://localhost:1313/blog-posts/</link>
+    <description>Recent content in Blog Posts on Department Of Warfare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog-posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I chose HUGO to build my blog.</title>
+      <link>http://localhost:1313/blog-posts/post1/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog-posts/post1/</guid>
+      <description>TLDR: I didn&amp;rsquo;t want to type in raw HTML for hours on end. I originally attempted this and wanted to pull my hair out. After discussing with a friend of mine, they told me about HUGO. I didn&amp;rsquo;t choose the HUGO life — it chose ME.&#xA;The Beginning: departmentofwarfare.org For a while now, I&amp;rsquo;ve wanted to begin my infosec blog but have had no clue where to start. For a while, I figured I&amp;rsquo;d go with the traditional website setup: Linux, Apache, MySQL, PHP (classic LAMP), as I do happen to have some experience with it at a previous job at my old community college.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+baseURL = 'https://www.departmentofwarfare.org'
+cname = 'www.departmentofwarfare.org'
+languageCode = 'en-us'
+title = 'Department Of Warfare'
+theme = 'terminal'
+
+[caches]
+	[caches.images]
+	dir = ':cacheDir/images'
+
+[menu]
+
+	[[menu.main]]
+		name = "Home"
+		url = "/"
+		weight = 1
+
+	[[menu.main]]
+		name = "Blog-Posts"
+		url = "/blog-posts"
+		weight = 2
+
+	[[menu.main]]
+		name = "About-Me"
+		url = "/about-me"
+		weight = 3
