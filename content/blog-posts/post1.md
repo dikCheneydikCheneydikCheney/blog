@@ -24,7 +24,7 @@ I then began to realize that I wasted a day or two on something that wasn't feas
 
 # Discovering HUGO
 
-I began to discuss what had just happened to a good buddy of mine, S0lidStat3 (visit his blog here!). He then asked me why I was trying to do it the difficult route, and admittedly I told him, "idk, I guess I like overthinking things lmao." This is where he told me about this beautiful static site generator called HUGO.
+I began to discuss what had just happened to a good buddy of mine, [S0lidStat3 click here to visit his blog!](solidsec.io). He then asked me why I was trying to do it the difficult route, and admittedly I told him, "idk, I guess I like overthinking things lmao." This is where he told me about this beautiful static site generator called HUGO.
 
 # What is HUGO?
 
