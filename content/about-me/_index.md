@@ -9,7 +9,7 @@ I am currently a 22 yr old Cyber Operations (Engineering focus) student at the U
 
 # What is the purpose of this site?
 
-This blog is mean't as a means to keep track of progress as I gain further experience within my skill-set along with sharing back to the infosec community.
+This blog is meant as a means to keep track of progress as I gain further experience within my skill-set along with sharing back to the infosec community.
 
 # Why the domain name "departmentofwarfare"
 
